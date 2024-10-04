@@ -1,0 +1,101 @@
+{"data":[
+    {
+      "id": "8549673097",
+      "name": "Perthby",
+      "costPerHead": 4211,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/258045/pexels-photo-258045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 8,
+      "category": "Hillside"
+    },
+    {
+      "id": "0610512104",
+      "name": "Nesbridge",
+      "costPerHead": 902,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2437297/pexels-photo-2437297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 4,
+      "category": "Party"
+    },
+    {
+      "id": "7536826557",
+      "name": "Kenntic End",
+      "costPerHead": 2879,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/1433052/pexels-photo-1433052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 11,
+      "category": "Hillside"
+    },
+    {
+      "id": "0733501601",
+      "name": "Pressal Creek",
+      "costPerHead": 1593,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2583852/pexels-photo-2583852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 5,
+      "category": "Hillside"
+    },
+    {
+      "id": "0606744025",
+      "name": "Heathber",
+      "costPerHead": 803,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2132075/pexels-photo-2132075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 4,
+      "category": "Cycling"
+    },
+    {
+      "id": "2621544733",
+      "name": "St Plympside",
+      "costPerHead": 3002,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/3116421/pexels-photo-3116421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 9,
+      "category": "Party"
+    },
+    {
+      "id": "0534597016",
+      "name": "Lowtra",
+      "costPerHead": 4731,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 20,
+      "category": "Cycling"
+    },
+    {
+      "id": "7247489857",
+      "name": "Chettbou Aux Dersting",
+      "costPerHead": 1354,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2175952/pexels-photo-2175952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 9,
+      "category": "Cycling"
+    },
+    {
+      "id": "6710850298",
+      "name": "Bucktim",
+      "costPerHead": 2342,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2835562/pexels-photo-2835562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 19,
+      "category": "Beaches"
+    },
+    {
+      "id": "9312138770",
+      "name": "Ntibran Lake",
+      "costPerHead": 3902,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 12,
+      "category": "Cycling"
+    },
+    {
+      "id": "5915383379",
+      "name": "Warflin",
+      "costPerHead": 969,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/1662770/pexels-photo-1662770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 15,
+      "category": "Hillside"
+    }
+  ]}

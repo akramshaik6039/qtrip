@@ -1,0 +1,56 @@
+{"data":[
+    {
+      "id": "8318638903",
+      "name": "Thton",
+      "costPerHead": 3377,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/2929211/pexels-photo-2929211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 11,
+      "category": "Hillside"
+    },
+    {
+      "id": "3936107807",
+      "name": "Grand Rubou Du Wagten",
+      "costPerHead": 3350,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/164025/pexels-photo-164025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 5,
+      "category": "Cycling"
+    },
+    {
+      "id": "8632343612",
+      "name": "Nesbridge",
+      "costPerHead": 3316,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/705075/pexels-photo-705075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 4,
+      "category": "Party"
+    },
+    {
+      "id": "2629332143",
+      "name": "North Gelgoon",
+      "costPerHead": 3384,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/1482936/pexels-photo-1482936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 12,
+      "category": "Party"
+    },
+    {
+      "id": "2212680653",
+      "name": "La Lakechi With Lipentage",
+      "costPerHead": 2193,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/164025/pexels-photo-164025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 14,
+      "category": "Hillside"
+    },
+    {
+      "id": "1157691488",
+      "name": "Annvir-In-Ingsauk Lake",
+      "costPerHead": 727,
+      "currency": "INR",
+      "image": "https://images.pexels.com/photos/437160/pexels-photo-437160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "duration": 14,
+      "category": "Hillside"
+    }
+  ]}

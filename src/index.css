@@ -1,13 +1,229 @@
-body {
+*{
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
+#list{
+  display: flex;
+  justify-content: space-around;
+  list-style-type:none;
+  padding: 10px;
+  align-items: center;
+}
+#li1{
+  flex-basis: 60%;
+  font-size: 20px;
+  position: relative;
+  left: -30px;
+}
+#reg{
+  padding: 10px 20px 10px 20px;
+  font-size: 17px;
+  background-color:#f19537;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#li3{
+  font-size: 18px;
+  color:#f19537;
+  font-weight: bold;
+}
+.bg{
+  width: 100%;
+  height: 550px;
+  background-image:linear-gradient(to right top, #0505056f, #0404046f, #0303036f, #02020272, #01010181, #01010196, #00000073, #00000077, #00000081, #0000009b, #00000075, #0000008a),url('../public/div2.jpg');
+  background-repeat: no-repeat;
+  background-size:200vh;
+  background-position:  left;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+  gap: 20px;
+}
+.div2{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 100px ;
+}
+#cartdiv{
+  overflow: hidden;
+  height: 450px;
+  border-radius: 10px;
+}
+.div2text{
+  position: relative;
+  font-family: sans-serif;
+  height: 30PX;
+  color: white;
+  position:relative;
+  bottom: 90px;
+  text-align: center;
+  
+} 
+
+h1.div2text{
+  font-size: 20px;
+  margin-bottom: 10px;
+  word-spacing: 2px;
+}
+h3.div2text{
+  font-size: 15px;
+}
+.div2img{
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+  transition: 500ms;
+}
+.imgdiv{
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  height: 450px;
+}
+
+.div2img:hover{
+  transform: scale(1.1,1.1);
+  filter:brightness(50%)  ;
+}
+#div2h1{
+  font-size: 40px;
+}
+#div2h4{
+  font-size: 25px;
+}
+#search{
+  width: 70%;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+#fotter{
+  background-color:#f1f1f1;
+  width: 100%;
+  height: 70px;
+  position: relative;
+ 
+
+}
+.nav2text{
+  padding: 0px 0px 20px 130px ;
+}
+#nav2ul{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 20px;
+  border: solid 1px;
+  margin: 0px 130px 0px 130px ;
+  border-left: transparent;
+  border-right: transparent;
+  padding: 25px 0px 25px 0px;
+}
+.navlist{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: solid;
+  padding-right: 30px;  
+  border: none;
+  border-right: solid 1px;
+}
+.nav2innertext{
+  border: solid 1px  rgb(196, 195, 195);
+  padding: 5px;
+  border-radius: 3px;
+}
+.clear{
+  color: blue;
+}
+#bancarts{
+width: 292px;
+height: 350px;
+border: 1px rgb(181, 181, 181) solid;
+border-radius: 10px;
+
+}
+.bancartimgs{
+  width: 100%;
+  height: 250px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.mainbandiv{
+  display: flex;
+  flex-wrap: wrap;
+  padding:100px 0px 100px 0px ;
+  margin: 0px 130px 0px 130px;
+  gap: 30px;
+}
+#bancart{
+  position:relative;
+  bottom:320px;
+  left:150px;
+  background-color:orange;
+  width:150px;
+  text-align:center;
+  border-bottom-left-radius:20px;
+  border-top-left-radius: 20px;
+  padding:5px;
+  color:white;
+
+}
+.bancartimgs:hover{
+  filter: brightness(50%);
+  transition: 500ms;
+}
+.banh1{
+  font-size: 20px;
+}
+
+#bantextdiv{
+display: flex;
+justify-content: space-between;
+}
+#banh1div{
+height: 100px;
+width: 200px;
+}
+
+.maincour{
+  border: solid 1px rgb(198, 196, 196);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 5px;
+  /* background-color: rgba(224, 224, 224, 0.151); */
+  margin: 100px 500px 100px 100px;
+}
+.carousel{
+  padding: 10px;
+  height: 500px;
+  overflow: hidden;
+  background-color: rgba(212, 211, 211, 0.171);
+
+}
+.carousel:hover{
+  filter: brightness(80%);
+  cursor: pointer;
+}
+.courimg{
+  width: 100%;
+  
+}
+.caroselh3{
+  color: rgb(178, 175, 175);
 }
